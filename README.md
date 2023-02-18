@@ -8,12 +8,13 @@
 <!--- [![The overview of EASpace](./Images/EASpace_Diagram.png "The algorithm structure of EASpace")](https://drive.google.com/file/d/1UjlHDRfhlYeH6Scb8rF-mwmK4cKrRoqX/view?usp=sharing) --->
 [![Grid-based Navigation Simulation #1](./Images/SimsExps2.png)](https://drive.google.com/file/d/1UjlHDRfhlYeH6Scb8rF-mwmK4cKrRoqX/view?usp=sharing)
 
-#### Grid-based Navigation Simulation #1
-
+<!--- #### Grid-based Navigation Simulation #1
 
 ![Grid-based Navigation Simulation #1](./Videos/Grid-basedNavigation1.gif)
 
 #### Grid-based Navigation Simulation #2
 
 ![Grid-based Navigation Simulation #1](./Videos/Grid-basedNavigation1.mp4)
+
+--->
 
