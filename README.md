@@ -6,5 +6,5 @@
 ### Simulation and experiment results
 
 #### Grid-based Navigation Simulation #1
-![Grid-based Navigation Simulation #1](./Videos/)
+![Grid-based Navigation Simulation #1](./Videos/Grid-basedNavigation1.mp4)
 
